@@ -30,5 +30,5 @@ public class HealthyBurger extends Hamburger{
         }
 
         return totalPrice;
-    }
+    }   
 }
